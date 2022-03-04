@@ -1,5 +1,5 @@
-This project is a Flask web application hosted on Heroku, created using HTML, CSS, Bootstrap, Python, PostgreSQL and Flask.
-Overall, it is a service searching for information about books. When you access the website the first time, you will be asked to log in. You can create a new account and then search in a database with 5000 books. The database consists of simple info about the book(title, author, publication year and ISBN number).
+This project is a Web application hosted on Heroku, created using Python, PostgreSQL, Flask, HTML and CSS.
+Overall, it is a service searching for information about books. When you access the website the first time, you will be asked to create an account. You can sign in and then search in a database with 5000 books. The database consists of simple info about the book(title, author, publication year and ISBN number).
 
 **Usage**:
 1. Register for an account
