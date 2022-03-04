@@ -1,6 +1,5 @@
-It's a book review website that allows users to register, log in, search for books and leave reviews. 
-
-The application uses a third-party API by Goodreads, another book review website, to pull in ratings from a broader audience. Finally, users can also query for book details via the website's API. 
+This project is a Flask web application hosted on Heroku, created using HTML, CSS, Bootstrap, Python, PostgreSQL and Flask.
+Overall, it is a service searching for information about books. When you access the website the first time, you will be asked to log in. You can create a new account and then search in a database with 5000 books. The database consists of simple info about the book(title, author, publication year and ISBN number).
 
 **Usage**:
 1. Register for an account
